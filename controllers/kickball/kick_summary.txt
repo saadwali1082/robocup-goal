@@ -1,0 +1,24 @@
+
+--- KICK SESSION ---
+Ball Size: 46 pixels
+Ball Center X: 93
+Ball Position: Left=70, Right=116
+Walk Steps: 15
+Sidestep Used: YES
+Timestamp: 1776778697
+
+--- KICK SESSION ---
+Ball Size: 46 pixels
+Ball Center X: 93
+Ball Position: Left=70, Right=116
+Walk Steps: 15
+Sidestep Used: YES
+Timestamp: 1776778724
+
+--- KICK SESSION ---
+Ball Size: 46 pixels
+Ball Center X: 93
+Ball Position: Left=70, Right=116
+Walk Steps: 15
+Sidestep Used: YES
+Timestamp: 1776778743
