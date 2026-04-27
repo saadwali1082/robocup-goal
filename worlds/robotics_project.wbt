@@ -1,0 +1,46 @@
+#VRML_SIM R2025a utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/samples/contests/robocup/protos/RobocupSoccerField.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/robots/softbank/nao/protos/Nao.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/balls/protos/Ball.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation 0.10285064398162973 -0.09704792795143122 -0.9899512335023873 4.644241717464179
+  position 6.415550612352291 -6.333456330815615 1.0892712086101215
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RobocupSoccerField {
+}
+Nao {
+  hidden rotation_22 0 1 0 0.9600000003597305
+  hidden rotation_23 0 0.9999999999999999 0 0.9599999998088553
+  hidden rotation_24 0 1 0 0.9599999999546266
+  hidden rotation_25 0 0.9999999999999999 0 0.9600000003597373
+  hidden rotation_26 0 0.9999999999999999 0 0.959999999807807
+  hidden rotation_27 0 1 0 0.9600000000452737
+  hidden rotation_29 0 -0.9999999999999999 0 0.9599999999544352
+  hidden rotation_34 0 0.9999999999999999 0 0.9599999996371164
+  hidden rotation_35 0 1 0 0.9599999998134887
+  hidden rotation_36 0 1 0 0.960000000466123
+  hidden rotation_37 0 1 0 0.9599999996371308
+  hidden rotation_38 0 0.9999999999999999 0 0.9599999998134916
+  hidden rotation_39 0 1 0 0.9600000000446948
+  hidden rotation_41 0 -1 0 0.959999999955094
+  translation 5.097570907015206 0.11379502289183384 0.3154152329866014
+  rotation 0.0014429435863310138 -0.024902807100564306 -0.9996888356445314 0.06696588186198807
+  controller "kickball"
+}
+Ball {
+  translation 5.55258 0.114922 0.0781373
+  rotation -0.7613156211513643 -0.1832489924341321 0.6219472097877663 0.32524377703771523
+  color 1 0 0
+  radius 0.07
+  mass 0.1
+}
